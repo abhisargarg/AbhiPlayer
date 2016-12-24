@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="726233323131765"
+    token="-1535079074165340969"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="726120609854979"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="726233323131765"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\registration.xml",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\menu\\registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\music.xml",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\menu\\music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

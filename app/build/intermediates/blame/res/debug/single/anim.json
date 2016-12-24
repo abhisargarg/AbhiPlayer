@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\anim\\fadein.xml"
+    }
+]

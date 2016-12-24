@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.jpg",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\playmusic.jpg",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\drawable-mdpi\\playmusic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\musicbackground.jpg",
+        "source": "C:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\src\\main\\res\\drawable-mdpi\\musicbackground.jpg"
+    }
+]

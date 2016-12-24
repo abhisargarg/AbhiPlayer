@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e1ef2c262ba431372e607632954563019b47adb4">
+        <dex dex="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_563162ddc1d9fcd52e83c94a30f559c0e4a5ba11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_e7fe5a09e87b81b7054ddf3b98a948c0dba33dbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47861963f3a654e808eb7945c5aa1777914b2df7">
+        <dex dex="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_523b3751534e9fd71402cb62e013f39ea0796e64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhisar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_9f1e4fc9e0312f8018e5796d6f190c568b2d824d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Abhisar\AndroidStudioProjects\AbhiPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_ceb9ca9dc9bbdbc152932689e23805e4ded7521d\classes.dex" />
+    </item>
+
+</items>

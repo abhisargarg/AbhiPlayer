@@ -1,0 +1,7 @@
+#Sun Dec 25 03:31:07 IST 2016
+base.0=C\:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_523b3751534e9fd71402cb62e013f39ea0796e64
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_563162ddc1d9fcd52e83c94a30f559c0e4a5ba11\\classes.dex
+base.1=C\:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_563162ddc1d9fcd52e83c94a30f559c0e4a5ba11
+file.0=C\:\\Users\\Abhisar\\AndroidStudioProjects\\AbhiPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_523b3751534e9fd71402cb62e013f39ea0796e64\\classes.dex
